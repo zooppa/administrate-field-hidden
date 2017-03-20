@@ -5,7 +5,7 @@ Gem::Specification.new do |gem|
   gem.version = '0.0.1'
   gem.authors = ['Michele Gerarduzzi']
   gem.email = ['michele.gerarduzzi@gmail.com']
-  gem.homepage = 'https://github.com/z-productions/administrate-field-hidden'
+  gem.homepage = 'https://github.com/zooppa/administrate-field-hidden'
   gem.summary = 'A plugin for hidden fields in Administrate'
   gem.description = gem.summary
   gem.license = 'MIT'

@@ -1,6 +1,6 @@
 # Administrate::Field::Hidden
 
-[![Code Climate](https://codeclimate.com/github/z-productions/administrate-field-hidden/badges/gpa.svg)](https://codeclimate.com/github/z-productions/administrate-field-hidden)
+[![Code Climate](https://codeclimate.com/github/zooppa/administrate-field-hidden/badges/gpa.svg)](https://codeclimate.com/github/zooppa/administrate-field-hidden)
 
 A plugin for hidden fields in [Administrate].
 
