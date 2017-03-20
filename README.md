@@ -9,7 +9,7 @@ A plugin for hidden fields in [Administrate].
 Add it to your `Gemfile`:
 
 ```ruby
-gem 'administrate-field-hidden', '~> 0.0.1'
+gem 'administrate-field-hidden', '~> 0.0.2'
 ```
 
 Run:
