@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    administrate-field-hidden (0.0.2)
+    administrate-field-hidden (0.0.3)
       administrate (< 1.0.0)
       rails (>= 4.2)
 
