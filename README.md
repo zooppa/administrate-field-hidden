@@ -1,5 +1,6 @@
 # Administrate::Field::Hidden
 
+[![Build Status](https://semaphoreci.com/api/v1/zooppa/administrate-field-hidden/branches/master/badge.svg)](https://semaphoreci.com/zooppa/administrate-field-hidden)
 [![Code Climate](https://codeclimate.com/github/zooppa/administrate-field-hidden/badges/gpa.svg)](https://codeclimate.com/github/zooppa/administrate-field-hidden)
 
 A plugin for hidden fields in [Administrate].
