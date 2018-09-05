@@ -28,7 +28,9 @@ ATTRIBUTE_TYPES = {
 
 ## About
 
-Administrate::Field::Hidden is maintained by [z.productions].
+Administrate::Field::Hidden is maintained by [Zooppa].
 
-[Administrate]: https://github.com/thoughtbot/administrate
-[z.productions]: https://www.z.productions/
+See also the list of [contributors](https://github.com/zooppa/administrate-field-hidden/contributors) who participated in this project.
+
+[administrate]: https://github.com/thoughtbot/administrate
+[zooppa]: https://www.zooppa.com/
