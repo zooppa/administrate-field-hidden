@@ -1,7 +1,6 @@
 # Administrate::Field::Hidden
 
-[![Build Status](https://travis-ci.com/zooppa/administrate-field-hidden.svg?branch=master)](https://travis-ci.com/zooppa/administrate-field-hidden)
-[![Code Climate](https://codeclimate.com/github/zooppa/administrate-field-hidden/badges/gpa.svg)](https://codeclimate.com/github/zooppa/administrate-field-hidden)
+[![Build status](https://github.com/zooppa/administrate-field-hidden/actions/workflows/build.yml/badge.svg)](https://github.com/zooppa/administrate-field-hidden/actions/workflows/build.yml) [![Code Climate](https://codeclimate.com/github/zooppa/administrate-field-hidden/badges/gpa.svg)](https://codeclimate.com/github/zooppa/administrate-field-hidden)
 
 A plugin for hidden fields in [Administrate].
 
