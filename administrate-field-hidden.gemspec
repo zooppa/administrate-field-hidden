@@ -3,11 +3,11 @@ $:.push File.expand_path('../lib', __FILE__)
 Gem::Specification.new do |gem|
   gem.name = 'administrate-field-hidden'
   gem.version = '0.0.3'
-  gem.authors = ['Michele Gerarduzzi']
-  gem.email = ['michele.gerarduzzi@gmail.com']
+  gem.authors = ['Zooppa']
+  gem.email = ['dev@zooppa.com']
   gem.homepage = 'https://github.com/zooppa/administrate-field-hidden'
-  gem.summary = 'A plugin for hidden fields in Administrate'
-  gem.description = gem.summary
+  gem.summary = 'Hidden fields plugin for Administrate'
+  gem.description = 'A plugin for hidden fields in Administrate'
   gem.license = 'MIT'
 
   gem.require_paths = ['lib']
