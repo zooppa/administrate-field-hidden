@@ -20,7 +20,7 @@ If you’re interested in taking over and steward the project moving forward, pl
 Add it to your `Gemfile`:
 
 ```ruby
-gem 'administrate-field-hidden', '~> 0.0.3'
+gem 'administrate-field-hidden', '~> 0.1.0'
 ```
 
 Run:
